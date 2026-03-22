@@ -1,4 +1,4 @@
-# 🕹️ Simon Says Game
+# 🕹️ Simon Game
 
 A web-based version of the classic electronic memory game. The game creates a series of tones and lights and requires the user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex.
 
